@@ -134,6 +134,22 @@ URL:https://services.planningcenteronline.com/plans/92459988
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:9:30 Contemporary Sunday Service - Full Band Rehearsal
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20261125T193000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20261125T203000
+UID:229024986_1392989149@planningcenteronline.com
+DESCRIPTION:Praise Team - Vocals - Vocals 
+URL:https://services.planningcenteronline.com/plans/92459990
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9:30 Contemporary Sunday Service - Pre Service Rehearsal
+DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20261129T080000
+DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20261129T090000
+UID:229024987_1392989149@planningcenteronline.com
+DESCRIPTION:Praise Team - Vocals - Vocals 
+URL:https://services.planningcenteronline.com/plans/92459990
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:9:30 Contemporary Sunday Service - Full Band Rehearsal
 DTSTART;TZID=America/Chicago;VALUE=DATE-TIME:20261202T193000
 DTEND;TZID=America/Chicago;VALUE=DATE-TIME:20261202T203000
 UID:229024991_1388115408@planningcenteronline.com
